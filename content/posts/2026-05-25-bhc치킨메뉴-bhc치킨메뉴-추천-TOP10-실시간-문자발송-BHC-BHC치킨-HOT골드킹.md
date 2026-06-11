@@ -14,7 +14,7 @@ cover:
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00625550/d8f2f244-d8ce-40b6-8cd6-4a6ad8846550.png"]
 ---
-
+<style>@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0 12px!important}.cpg-btn{display:block!important;width:100%;box-sizing:border-box;text-align:center;padding:14px!important;font-size:16px!important}}</style>
 **bhc치킨메뉴** 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다.
 
 > BHC 치킨을 고를 때는 어떤 것들을 중요하게 봐야 할까요? 먼저 취향에 맞는 맛 선택이 중요합니다. HOT골드킹부터 양념치킨, 신메뉴 콰삭킹까지 다양한 옵션이 있으니까요. 다음으로는 실시간 배송 혜택과 쿠폰 등 현재 진행 중인 프로모션을 잘 활용하면 더 저렴하게 즐길 수 있습니다. 마지막으로 냉동 제품의 경우 신선도와 용량도 함께 체크하면 좋습니다. 지금 핫한 BHC 치킨 메뉴들을 추천 상품과 함께 소개합니다.
@@ -23,14 +23,14 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 1위 — [실시간 문자발송] [BHC] BHC치킨 ♥HOT골드킹/양념치킨
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010800178&traceid=V0-153&itemId=20002052403905&vendorItemId=70000146652191" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00625550/d8f2f244-d8ce-40b6-8cd6-4a6ad8846550.png" alt="1위 - [실시간 문자발송] [BHC] BHC치킨 ♥HOT골드킹/양념치킨♥" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010800178&traceid=V0-153&itemId=20002052403905&vendorItemId=70000146652191" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00625550/d8f2f244-d8ce-40b6-8cd6-4a6ad8846550.png" alt="1위 - [실시간 문자발송] [BHC] BHC치킨 ♥HOT골드킹/양념치킨♥" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**[실시간 문자발송] [BHC] BHC치킨 ♥HOT골드킹/양념치킨♥**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010800178&traceid=V0-153&itemId=20002052403905&vendorItemId=70000146652191)
 
 - 가격: **23,500원**
 - 리뷰수: 20개
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010800178&traceid=V0-153&itemId=20002052403905&vendorItemId=70000146652191" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010800178&traceid=V0-153&itemId=20002052403905&vendorItemId=70000146652191" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -38,7 +38,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 2위 — 청정원 순살바삭 허니간장치킨 (냉동), 300g, 2개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8673061136&traceid=V0-153&itemId=21622796387&vendorItemId=88673836437" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/113112746267961-65f4518d-d85a-4fd1-8ca9-79485e888f98.jpg" alt="2위 - 청정원 순살바삭 허니간장치킨 (냉동), 300g, 2개" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8673061136&traceid=V0-153&itemId=21622796387&vendorItemId=88673836437" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/113112746267961-65f4518d-d85a-4fd1-8ca9-79485e888f98.jpg" alt="2위 - 청정원 순살바삭 허니간장치킨 (냉동), 300g, 2개" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**청정원 순살바삭 허니간장치킨 (냉동), 300g, 2개**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8673061136&traceid=V0-153&itemId=21622796387&vendorItemId=88673836437)
 
@@ -47,7 +47,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~19,960원~~ → **13,960원** (30% 할인)
 - 리뷰수: 11,532개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8673061136&traceid=V0-153&itemId=21622796387&vendorItemId=88673836437" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8673061136&traceid=V0-153&itemId=21622796387&vendorItemId=88673836437" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -55,14 +55,14 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 3위 — [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] 콰삭킹 등 신메뉴
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000011322713&traceid=V0-153&itemId=20002197249157&vendorItemId=70000276965451" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00050106/359a254b-db32-4ea7-b73b-5e88bbb9ec47.PNG" alt="3위 - [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] 콰삭킹 등 신메뉴 세트 모음전 (콰삭톡/스윗칠리킹)" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000011322713&traceid=V0-153&itemId=20002197249157&vendorItemId=70000276965451" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00050106/359a254b-db32-4ea7-b73b-5e88bbb9ec47.PNG" alt="3위 - [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] 콰삭킹 등 신메뉴 세트 모음전 (콰삭톡/스윗칠리킹)" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**[실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] 콰삭킹 등 신메뉴 세트 모음전 (콰삭톡/스윗칠리킹)**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000011322713&traceid=V0-153&itemId=20002197249157&vendorItemId=70000276965451)
 
 - 가격: **23,500원**
 - 리뷰수: 12개
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000011322713&traceid=V0-153&itemId=20002197249157&vendorItemId=70000276965451" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000011322713&traceid=V0-153&itemId=20002197249157&vendorItemId=70000276965451" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -70,14 +70,14 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 4위 — [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] HOT후라이드 세
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010348006&traceid=V0-153&itemId=20002068766343&vendorItemId=70000161819145" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00050106/112cca3d-b48a-4301-9348-3aad3e51d9c8.jpg" alt="4위 - [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] HOT후라이드 세트 등 치킨 세트(쏘마치, 맛초킹, 레드킹)" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010348006&traceid=V0-153&itemId=20002068766343&vendorItemId=70000161819145" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00050106/112cca3d-b48a-4301-9348-3aad3e51d9c8.jpg" alt="4위 - [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] HOT후라이드 세트 등 치킨 세트(쏘마치, 맛초킹, 레드킹)" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**[실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] HOT후라이드 세트 등 치킨 세트(쏘마치, 맛초킹, 레드킹)**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010348006&traceid=V0-153&itemId=20002068766343&vendorItemId=70000161819145)
 
 - 가격: ~~23,500원~~ → **23,260원** (1% 할인)
 - 리뷰수: 19개
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010348006&traceid=V0-153&itemId=20002068766343&vendorItemId=70000161819145" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010348006&traceid=V0-153&itemId=20002068766343&vendorItemId=70000161819145" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -85,7 +85,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 5위 — 다잇닭 통살 크리스피 치킨, 90g, 닭가슴살+닭다리살 6종 혼
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9077634809&traceid=V0-153&itemId=26648013457&vendorItemId=93594094673" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/advertiser/1768441343760/d656cb6e-43be-4100-b67e-59bb114ed8f6.jpg" alt="5위 - 다잇닭 통살 크리스피 치킨, 90g, 닭가슴살+닭다리살 6종 혼합 30팩" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9077634809&traceid=V0-153&itemId=26648013457&vendorItemId=93594094673" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/advertiser/1768441343760/d656cb6e-43be-4100-b67e-59bb114ed8f6.jpg" alt="5위 - 다잇닭 통살 크리스피 치킨, 90g, 닭가슴살+닭다리살 6종 혼합 30팩" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**다잇닭 통살 크리스피 치킨, 90g, 닭가슴살+닭다리살 6종 혼합 30팩**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9077634809&traceid=V0-153&itemId=26648013457&vendorItemId=93594094673)
 
@@ -94,7 +94,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~99,000원~~ → **62,200원** (37% 할인)
 - 리뷰수: 6개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9077634809&traceid=V0-153&itemId=26648013457&vendorItemId=93594094673" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9077634809&traceid=V0-153&itemId=26648013457&vendorItemId=93594094673" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -102,7 +102,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 6위 — 고메 소바바 치킨 양념 순살 (냉동), 600g, 1개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9074262260&traceid=V0-153&itemId=25272094843&vendorItemId=92267811512" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/175751758514854-874452dd-cbbe-4ebf-a3b4-cd1121b8b9a8.jpg" alt="6위 - 고메 소바바 치킨 양념 순살 (냉동), 600g, 1개" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9074262260&traceid=V0-153&itemId=25272094843&vendorItemId=92267811512" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/175751758514854-874452dd-cbbe-4ebf-a3b4-cd1121b8b9a8.jpg" alt="6위 - 고메 소바바 치킨 양념 순살 (냉동), 600g, 1개" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**고메 소바바 치킨 양념 순살 (냉동), 600g, 1개**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9074262260&traceid=V0-153&itemId=25272094843&vendorItemId=92267811512)
 
@@ -111,7 +111,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~15,980원~~ → **12,600원** (21% 할인)
 - 리뷰수: 6,566개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9074262260&traceid=V0-153&itemId=25272094843&vendorItemId=92267811512" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9074262260&traceid=V0-153&itemId=25272094843&vendorItemId=92267811512" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -119,14 +119,14 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 7위 — [실시간 문자발송] [BHC] BEST 모음전 ♥금액권/뿌링클/
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010749954&traceid=V0-153&itemId=20002052428029&vendorItemId=70000146655149" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00625550/7e14bc04-912b-4c43-8abd-ecdf2592c29b.png" alt="7위 - [실시간 문자발송] [BHC] BEST 모음전 ♥금액권/뿌링클/골드킹/맛초킹/HOT후라이드/후라이드♥" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010749954&traceid=V0-153&itemId=20002052428029&vendorItemId=70000146655149" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00625550/7e14bc04-912b-4c43-8abd-ecdf2592c29b.png" alt="7위 - [실시간 문자발송] [BHC] BEST 모음전 ♥금액권/뿌링클/골드킹/맛초킹/HOT후라이드/후라이드♥" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**[실시간 문자발송] [BHC] BEST 모음전 ♥금액권/뿌링클/골드킹/맛초킹/HOT후라이드/후라이드♥**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010749954&traceid=V0-153&itemId=20002052428029&vendorItemId=70000146655149)
 
 - 가격: **10,000원**
 - 리뷰수: 71개
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010749954&traceid=V0-153&itemId=20002052428029&vendorItemId=70000146655149" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010749954&traceid=V0-153&itemId=20002052428029&vendorItemId=70000146655149" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -134,14 +134,14 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 8위 — [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] 뿌링클 외 치킨
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000002457363&traceid=V0-153&itemId=20002068773879&vendorItemId=70000161826668" target="_blank" rel="nofollow sponsored noopener"><img src="https://static.coupangcdn.com/image/coupang/common/no_img_1000_1000.png" alt="8위 - [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] 뿌링클 외 치킨 모바일쿠폰 (치즈볼/후라이드/골드킹)" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000002457363&traceid=V0-153&itemId=20002068773879&vendorItemId=70000161826668" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://static.coupangcdn.com/image/coupang/common/no_img_1000_1000.png" alt="8위 - [실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] 뿌링클 외 치킨 모바일쿠폰 (치즈볼/후라이드/골드킹)" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**[실시간e쿠폰] ※보상쿠폰 사용불가※[BHC] 뿌링클 외 치킨 모바일쿠폰 (치즈볼/후라이드/골드킹)**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000002457363&traceid=V0-153&itemId=20002068773879&vendorItemId=70000161826668)
 
 - 가격: ~~22,500원~~ → **22,270원** (1% 할인)
 - 리뷰수: 338개
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000002457363&traceid=V0-153&itemId=20002068773879&vendorItemId=70000161826668" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000002457363&traceid=V0-153&itemId=20002068773879&vendorItemId=70000161826668" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -149,7 +149,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 9위 — 고메 소바바치킨 소이허니 순살 (냉동), 600g, 1개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8262847619&traceid=V0-153&itemId=24374270398&vendorItemId=91389430977" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/176681838793622-5e05b5a5-0975-40a2-88c7-e7bd06e2e3dc.jpg" alt="9위 - 고메 소바바치킨 소이허니 순살 (냉동), 600g, 1개" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8262847619&traceid=V0-153&itemId=24374270398&vendorItemId=91389430977" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/176681838793622-5e05b5a5-0975-40a2-88c7-e7bd06e2e3dc.jpg" alt="9위 - 고메 소바바치킨 소이허니 순살 (냉동), 600g, 1개" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**고메 소바바치킨 소이허니 순살 (냉동), 600g, 1개**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8262847619&traceid=V0-153&itemId=24374270398&vendorItemId=91389430977)
 
@@ -158,7 +158,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~15,980원~~ → **10,570원** (33% 할인)
 - 리뷰수: 23,543개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8262847619&traceid=V0-153&itemId=24374270398&vendorItemId=91389430977" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8262847619&traceid=V0-153&itemId=24374270398&vendorItemId=91389430977" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -166,14 +166,14 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 10위 — [실시간 문자발송] [BHC] 쏘마치 신메뉴 12종 (NEW)
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010347738&traceid=V0-153&itemId=20002027342309&vendorItemId=70000124338300" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00625550/6b0c6b1b-609a-4c2a-a207-83b5e4347e92.png" alt="10위 - [실시간 문자발송] [BHC] 쏘마치 신메뉴 12종 (NEW)" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010347738&traceid=V0-153&itemId=20002027342309&vendorItemId=70000124338300" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00625550/6b0c6b1b-609a-4c2a-a207-83b5e4347e92.png" alt="10위 - [실시간 문자발송] [BHC] 쏘마치 신메뉴 12종 (NEW)" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**[실시간 문자발송] [BHC] 쏘마치 신메뉴 12종 (NEW)**](https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010347738&traceid=V0-153&itemId=20002027342309&vendorItemId=70000124338300)
 
 - 가격: **23,500원**
 - 리뷰수: 2개
 
-<a href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010347738&traceid=V0-153&itemId=20002027342309&vendorItemId=70000124338300" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFTDP?lptag=AF5108917&subid=githubgithub&pageKey=10000010347738&traceid=V0-153&itemId=20002027342309&vendorItemId=70000124338300" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
