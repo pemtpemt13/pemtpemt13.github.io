@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "cgv팝콘"]
 keywords: ["cgv팝콘", "Top10", "shopping"]
 author: "pemtpemt13"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "이 글에서는 cgv팝콘 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 영화관의 꽃, CGV 팝콘! 영화 관람의 즐거움을 더해주는 필수템이죠. 갓 튀긴 고소한 팝콘 향기는 극장의 분위기를 한층 풍부하게 만들어줍니다. 하지만 이제는 집에서도 CGV의 맛을…"
+summary: "이 글에서는 cgv팝콘 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 영화관의 꽃, CGV 팝콘! 영화 관람의 즐거움을 더해주는 필수템이죠. 갓 튀긴 고소한 팝콘 향기는 극장의 분위기를 한층 풍부하게 만들어줍니다. 하지만 이제는 집에서도 CGV의 맛을…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/travel_reactor/travelSeller/common/A00129467/63a21ef4-0138-4135-bd4c-f98e60243533.jpg"
   alt: "cgv팝콘 추천 TOP10 — [전국] [CGV]CGV 2D일반 영화관람권"

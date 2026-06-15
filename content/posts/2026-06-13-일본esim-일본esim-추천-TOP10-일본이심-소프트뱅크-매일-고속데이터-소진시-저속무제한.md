@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "일본esim"]
 keywords: ["일본esim", "Top10", "shopping"]
 author: "pemtpemt13"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "이 글에서는 일본esim 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 일본 여행을 앞두고 데이터를 어떻게 사용할지 고민이시라면 eSIM이 훌륭한 선택입니다. 일본esim을 선택할 때는 여행 기간에 맞는 대여 일수, 일일 데이터 제공량, 그리고…"
+summary: "이 글에서는 일본esim 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 일본 여행을 앞두고 데이터를 어떻게 사용할지 고민이시라면 eSIM이 훌륭한 선택입니다. 일본esim을 선택할 때는 여행 기간에 맞는 대여 일수, 일일 데이터 제공량, 그리고…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/a9a9/7b859579b873d2e1cd2ad80dace76513e1b64b9272469b29b6dcb404a706.png"
   alt: "일본esim 추천 TOP10 — 일본이심 소프트뱅크 매일 고속데이터 소진시 저속무제한"
