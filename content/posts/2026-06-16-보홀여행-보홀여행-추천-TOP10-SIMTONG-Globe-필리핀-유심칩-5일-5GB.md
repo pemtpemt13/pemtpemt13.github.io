@@ -1,13 +1,14 @@
 ---
-title: "보홀여행 추천 TOP10 — SIMTONG Globe 필리핀 유심칩, 5일, 5GB"
+title: "보홀여행 추천 TOP10 — 2026년 9월 기준"
 date: 2026-06-16T08:54:20+09:00
+lastmod: 2026-09-05
 draft: false
 categories: ["shopping"]
 tags: ["Top10", "shopping", "보홀여행"]
 keywords: ["보홀여행", "Top10", "shopping"]
 author: "pemtpemt13"
-description: "보홀여행 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 보홀은 필리핀의 숨겨진 보석 같은 섬으로, 친구와 함께 휴양과 모험을 동시에 즐길 수 있는 최적의 여행지입니다. 편리한 이동을 위한 유심칩, 맛있는 음식과 숙박을 망라한 입출국팩,…"
-summary: "보홀여행 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 보홀은 필리핀의 숨겨진 보석 같은 섬으로, 친구와 함께 휴양과 모험을 동시에 즐길 수 있는 최적의 여행지입니다. 편리한 이동을 위한 유심칩, 맛있는 음식과 숙박을 망라한 입출국팩,…"
+description: "보홀여행 추천 TOP10 (2026년 9월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
+summary: "보홀여행 추천 TOP10 (2026년 9월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/633810748807532-2a785f95-8127-4349-8fa0-d2ae028ef161.jpg"
   alt: "보홀여행 추천 TOP10 — SIMTONG Globe 필리핀 유심칩, 5일, 5GB"
