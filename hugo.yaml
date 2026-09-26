@@ -1,7 +1,7 @@
 baseURL: "https://pemtpemt13.github.io/"
 languageCode: ko
 defaultContentLanguage: ko
-title: "pemtpemt13 blog"
+title: "여가 살림 가이드"
 theme: PaperMod
 paginate: 10
 
@@ -23,8 +23,8 @@ params:
   comments: false
 
   homeInfoParams:
-    Title: "블로그에 오신 것을 환영합니다"
-    Content: "다양한 정보를 공유합니다."
+    Title: "여가 살림 가이드"
+    Content: "캠핑·취미·생활편의처럼 여가와 살림에 쓰는 물건을 가격·평점·리뷰 데이터로 비교해 고르는 기준을 정리합니다. 순위는 글마다 적힌 조회 날짜 기준입니다."
 
   socialIcons: []
 
