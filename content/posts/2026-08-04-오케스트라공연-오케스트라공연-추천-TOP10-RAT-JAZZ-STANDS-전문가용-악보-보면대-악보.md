@@ -1,13 +1,14 @@
 ---
-title: "오케스트라공연 추천 TOP10 — RAT JAZZ STANDS 전문가용 악보 보면대 악보"
+title: "오케스트라공연 추천 TOP10 — 2026년 8월 기준"
 date: 2026-08-04T08:49:09+09:00
+lastmod: 2026-10-05
 draft: false
 categories: ["shopping"]
 tags: ["Top10", "shopping", "오케스트라공연"]
 keywords: ["오케스트라공연", "Top10", "shopping"]
 author: "pemtpemt13"
-description: "오케스트라공연 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 오케스트라공연을 더 편안하고 생생하게 즐기려면 관람 목적에 맞는 장비 선택이 중요합니다. 연주자는 악보대와 악기용 마이크의 안정성·음질을, 관객은 망원경의 배율·휴대성을…"
-summary: "오케스트라공연 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 오케스트라공연을 더 편안하고 생생하게 즐기려면 관람 목적에 맞는 장비 선택이 중요합니다. 연주자는 악보대와 악기용 마이크의 안정성·음질을, 관객은 망원경의 배율·휴대성을…"
+description: "오케스트라공연 추천 TOP10 (2026년 8월). 가격·평점·로켓배송 비교를 정리했습니다."
+summary: "오케스트라공연 추천 TOP10 (2026년 8월). 가격·평점·로켓배송 비교를 정리했습니다."
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/prod/b6c198e6-f53f-4fbd-a4bb-91c494b7663f_fixing_v2.png"
   alt: "오케스트라공연 추천 TOP10 — RAT JAZZ STANDS 전문가용 악보 보면대 악보"
